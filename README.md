@@ -148,6 +148,17 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Falsa Posición 4 | [📄 Imple (4).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%284%29.java) |
 |  5  | Falsa Posición 5 | [📄 Imple (5).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%285%29.java) |
 
+### 🌀 Método de Newton-Raphson
+
+|  #  | Ejercicio        | Archivo                                                                                |
+| :-: | ---------------- | -------------------------------------------------------------------------------------- |
+|  1  | Newton-Raphson 1 | [📄 Imple (1).java](./Tema2/M%C3%A9todos%20de%20Newton%20Raphson/Imple%20%281%29.java) |
+|  2  | Newton-Raphson 2 | [📄 Imple (2).java](./Tema2/M%C3%A9todos%20de%20Newton%20Raphson/Imple%20%282%29.java) |
+|  3  | Newton-Raphson 3 | [📄 Imple (3).java](./Tema2/M%C3%A9todos%20de%20Newton%20Raphson/Imple%20%283%29.java) |
+|  4  | Newton-Raphson 4 | [📄 Imple (4).java](./Tema2/M%C3%A9todos%20de%20Newton%20Raphson/Imple%20%284%29.java) |
+|  5  | Newton-Raphson 5 | [📄 Imple (5).java](./Tema2/M%C3%A9todos%20de%20Newton%20Raphson/Imple%20%285%29.java) |
+
+
 
 
 
