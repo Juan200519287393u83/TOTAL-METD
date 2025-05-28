@@ -200,6 +200,19 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Jacobi 4  | [📄 Imple (4).java](./Tema3/M%C3%A9todo%20de%20Jacobi/Imple%20%284%29.java) |
 |  5  | Jacobi 5  | [📄 Imple (5).java](./Tema3/M%C3%A9todo%20de%20Jacobi/Imple%20%285%29.java) |
 
+## 🔹 Tema 4 – Diferenciación e Integración Numérica
+
+### 🌀 Metodo de Cuadratura Gaussiana
+
+|  #  | Ejercicio              | Archivo                                                             |
+| :-: | ---------------------- | ------------------------------------------------------------------- |
+|  1  | Cuadratura Gaussiana 1 | [📄 Imple 1.java](./Tema4/MetodoCuadraturaGaussiana/Imple%201.java) |
+|  2  | Cuadratura Gaussiana 2 | [📄 Imple 2.java](./Tema4/MetodoCuadraturaGaussiana/Imple%202.java) |
+|  3  | Cuadratura Gaussiana 3 | [📄 Imple 3.java](./Tema4/MetodoCuadraturaGaussiana/Imple%203.java) |
+|  4  | Cuadratura Gaussiana 4 | [📄 Imple 4.java](./Tema4/MetodoCuadraturaGaussiana/Imple%204.java) |
+|  5  | Cuadratura Gaussiana 5 | [📄 Imple 5.java](./Tema4/MetodoCuadraturaGaussiana/Imple%205.java) |
+
+
 
 
 
