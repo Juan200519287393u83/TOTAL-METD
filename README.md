@@ -97,7 +97,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 | 4 | Implementación 4 | [📄 Imple (4).java](./Tema1/Overflow/Imple%20(4).java) |
 | 5 | Implementación 5 | [📄 Imple (5).java](./Tema1/Overflow/Imple%20(5).java) |
 
-##🌀 Redondeo
+### 🌀 Redondeo
 |  #  | Ejercicio        | Archivo                                              |
 | :-: | ---------------- | ---------------------------------------------------- |
 |  1  | Redondeo 1 | [📄 Codigo1.java](./Tema1/Redondeo/Codigo1.java) |
@@ -106,7 +106,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Redondeo 4 | [📄 Codigo4.java](./Tema1/Redondeo/Codigo4.java) |
 |  5  | Redondeo 5 | [📄 Codigo5.java](./Tema1/Redondeo/Codigo5.java) |
 
-##🌀 Truncamiento
+### 🌀 Truncamiento
 |  #  | Ejercicio        | Archivo                                              |
 | :-: | ---------------- | ---------------------------------------------------- |
 |  1  | Truncamiento 1 | [📄 Imple (1).java](./Tema1/Truncamiento/Imple%20(1).java) |
