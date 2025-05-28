@@ -138,6 +138,17 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Bisección 4 | [📄 Imple (4).java](./Tema2/M%C3%A9todo%20de%20bisecci%C3%B3n/Imple%20%284%29.java) |
 |  5  | Bisección 5 | [📄 Imple (5).java](./Tema2/M%C3%A9todo%20de%20bisecci%C3%B3n/Imple%20%285%29.java) |
 
+### 🌀 Método de la falsa posición
+
+|  #  | Ejercicio        | Archivo                                                                                    |
+| :-: | ---------------- | ------------------------------------------------------------------------------------------ |
+|  1  | Falsa Posición 1 | [📄 Imple (1).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%281%29.java) |
+|  2  | Falsa Posición 2 | [📄 Imple (2).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%282%29.java) |
+|  3  | Falsa Posición 3 | [📄 Imple (3).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%283%29.java) |
+|  4  | Falsa Posición 4 | [📄 Imple (4).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%284%29.java) |
+|  5  | Falsa Posición 5 | [📄 Imple (5).java](./Tema2/M%C3%A9todo%20de%20falsa%20posici%C3%B3n/Imple%20%285%29.java) |
+
+
 
 
 
