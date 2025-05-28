@@ -163,13 +163,13 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ### 🌀 Eliminación de Gauss
 
-|  #  | Ejercicio               | Archivo                                                                      |
-| :-: | ----------------------- | ---------------------------------------------------------------------------- |
-|  1  | Eliminación Gaussiana 1 | [📄 Imple 1.java](./Tema3/Eliminaci%C3%B3n%20Gaussiana/Imple%20%281%29.java) |
-|  2  | Eliminación Gaussiana 2 | [📄 Imple 2.java](./Tema3/Eliminaci%C3%B3n%20Gaussiana/Imple%20%282%29.java) |
-|  3  | Eliminación Gaussiana 3 | [📄 Imple 3.java](./Tema3/Eliminaci%C3%B3n%20Gaussiana/Imple%20%283%29.java) |
-|  4  | Eliminación Gaussiana 4 | [📄 Imple 4.java](./Tema3/Eliminaci%C3%B3n%20Gaussiana/Imple%20%284%29.java) |
-|  5  | Eliminación Gaussiana 5 | [📄 Imple 5.java](./Tema3/Eliminaci%C3%B3n%20Gaussiana/Imple%20%285%29.java) |
+|  #  | Ejercicio               | Archivo                                                           |
+| :-: | ----------------------- | ----------------------------------------------------------------- |
+|  1  | Eliminación Gaussiana 1 | [📄 Imple 1.java](./Tema3/Eliminación%20Gaussiana/Imple%201.java) |
+|  2  | Eliminación Gaussiana 2 | [📄 Imple 2.java](./Tema3/Eliminación%20Gaussiana/Imple%202.java) |
+|  3  | Eliminación Gaussiana 3 | [📄 Imple 3.java](./Tema3/Eliminación%20Gaussiana/Imple%203.java) |
+|  4  | Eliminación Gaussiana 4 | [📄 Imple 4.java](./Tema3/Eliminación%20Gaussiana/Imple%204.java) |
+|  5  | Eliminación Gaussiana 5 | [📄 Imple 5.java](./Tema3/Eliminación%20Gaussiana/Imple%205.java) |
 
 
 
