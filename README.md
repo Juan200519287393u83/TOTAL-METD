@@ -242,6 +242,22 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Trapecio - Ejercicio 4 | [📄 Imple (4).java](./Tema4/MetodoTrapecio/Imple%20%284%29.java) |
 |  5  | Trapecio - Ejercicio 5 | [📄 Imple (5).java](./Tema4/MetodoTrapecio/Imple%20%285%29.java) |
 
+## 🔹 Tema 5 – Interpolación y Ajuste de Funciones
+
+### 🌀 Metodo de Interpolación Lineal
+
+|  #  | Ejercicio              | Archivo                                                                |
+| :-: | ---------------------- | ---------------------------------------------------------------------- |
+|  1  | Interpolación Lineal 1 | [📄 Imple (1).java](./Tema5/Interpolación_Lineal/Imple%20%281%29.java) |
+|  2  | Interpolación Lineal 2 | [📄 Imple (2).java](./Tema5/Interpolación_Lineal/Imple%20%282%29.java) |
+|  3  | Interpolación Lineal 3 | [📄 Imple (3).java](./Tema5/Interpolación_Lineal/Imple%20%283%29.java) |
+|  4  | Interpolación Lineal 4 | [📄 Imple (4).java](./Tema5/Interpolación_Lineal/Imple%20%284%29.java) |
+|  5  | Interpolación Lineal 5 | [📄 Imple (5).java](./Tema5/Interpolación_Lineal/Imple%20%285%29.java) |
+
+
+
+
+
 
 
 
