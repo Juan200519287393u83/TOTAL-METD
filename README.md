@@ -264,6 +264,17 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Mínimos Cuadrados 4 | [📄 Imple (4).java](./Tema5/Interpolación_de_Mínimos_Cuadrado/Imple%20%284%29.java) |
 |  5  | Mínimos Cuadrados 5 | [📄 Imple (5).java](./Tema5/Interpolación_de_Mínimos_Cuadrado/Imple%20%285%29.java) |
 
+### 🌀 Metodo de Interpolación de Lagrange
+
+|  #  | Ejercicio  | Archivo                                                                     |
+| :-: | ---------- | --------------------------------------------------------------------------- |
+|  1  | Lagrange 1 | [📄 Imple (1).java](./Tema5/Interpolación_de_lagrange/Imple%20%281%29.java) |
+|  2  | Lagrange 2 | [📄 Imple (2).java](./Tema5/Interpolación_de_lagrange/Imple%20%282%29.java) |
+|  3  | Lagrange 3 | [📄 Imple (3).java](./Tema5/Interpolación_de_lagrange/Imple%20%283%29.java) |
+|  4  | Lagrange 4 | [📄 Imple (4).java](./Tema5/Interpolación_de_lagrange/Imple%20%284%29.java) |
+|  5  | Lagrange 5 | [📄 Imple (5).java](./Tema5/Interpolación_de_lagrange/Imple%20%285%29.java) |
+
+
 
 
 
