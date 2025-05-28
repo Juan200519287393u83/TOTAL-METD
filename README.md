@@ -305,6 +305,17 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Regresión 4 | [📄 Imple (4).java](./Tema5/Método_de_regresion/Imple%20%284%29.java) |
 |  5  | Regresión 5 | [📄 Imple (5).java](./Tema5/Método_de_regresion/Imple%20%285%29.java) |
 
+## 🔹 Tema 6 – Solución de EDOs
+
+|  #  | Ejercicio | Archivo                                                 |
+| :-: | --------- | ------------------------------------------------------- |
+|  1  | Euler 1   | [📄 Imple (1).java](./Tema6/Euler/Imple%20%281%29.java) |
+|  2  | Euler 2   | [📄 Imple (2).java](./Tema6/Euler/Imple%20%282%29.java) |
+|  3  | Euler 3   | [📄 Imple (3).java](./Tema6/Euler/Imple%20%283%29.java) |
+|  4  | Euler 4   | [📄 Imple (4).java](./Tema6/Euler/Imple%20%284%29.java) |
+|  5  | Euler 5   | [📄 Imple (5).java](./Tema6/Euler/Imple%20%285%29.java) |
+
+
 
 
 
