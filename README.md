@@ -232,6 +232,18 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Simpson 3/8 - Ejercicio 4 | [📄 Imple (4).java](./Tema4/MetodoReglaSimpson3_8/Imple%20%284%29.java) |
 |  5  | Simpson 3/8 - Ejercicio 5 | [📄 Imple (5).java](./Tema4/MetodoReglaSimpson3_8/Imple%20%285%29.java) |
 
+### 🌀 Metodo de Trapecio
+
+|  #  | Ejercicio              | Archivo                                                          |
+| :-: | ---------------------- | ---------------------------------------------------------------- |
+|  1  | Trapecio - Ejercicio 1 | [📄 Imple (1).java](./Tema4/MetodoTrapecio/Imple%20%281%29.java) |
+|  2  | Trapecio - Ejercicio 2 | [📄 Imple (2).java](./Tema4/MetodoTrapecio/Imple%20%282%29.java) |
+|  3  | Trapecio - Ejercicio 3 | [📄 Imple (3).java](./Tema4/MetodoTrapecio/Imple%20%283%29.java) |
+|  4  | Trapecio - Ejercicio 4 | [📄 Imple (4).java](./Tema4/MetodoTrapecio/Imple%20%284%29.java) |
+|  5  | Trapecio - Ejercicio 5 | [📄 Imple (5).java](./Tema4/MetodoTrapecio/Imple%20%285%29.java) |
+
+
+
 
 
 
