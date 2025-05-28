@@ -307,6 +307,8 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ## 🔹 Tema 6 – Solución de EDOs
 
+### 🌀 Metodo de Euler
+
 |  #  | Ejercicio | Archivo                                                 |
 | :-: | --------- | ------------------------------------------------------- |
 |  1  | Euler 1   | [📄 Imple (1).java](./Tema6/Euler/Imple%20%281%29.java) |
