@@ -173,6 +173,15 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ### 🌀 Eliminación de Gauss-Jordan
 
+|  #  | Ejercicio      | Archivo                                                                           |
+| :-: | -------------- | --------------------------------------------------------------------------------- |
+|  1  | Gauss-Jordan 1 | [📄 Imple (1).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%281%29.java) |
+|  2  | Gauss-Jordan 2 | [📄 Imple (2).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%282%29.java) |
+|  3  | Gauss-Jordan 3 | [📄 Imple (3).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%283%29.java) |
+|  4  | Gauss-Jordan 4 | [📄 Imple (4).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%284%29.java) |
+|  5  | Gauss-Jordan 5 | [📄 Imple (5).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%285%29.java) |
+
+
 
 
 
