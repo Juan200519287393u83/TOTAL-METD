@@ -97,11 +97,11 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 | 4 | Implementación 4 | [📄 Imple (4).java](./Tema1/Overflow/Imple%20(4).java) |
 | 5 | Implementación 5 | [📄 Imple (5).java](./Tema1/Overflow/Imple%20(5).java) |
 
-##🔹 Tema 2 – Redondeo
+## Redondeo
 |  #  | Ejercicio        | Archivo                                              |
 | :-: | ---------------- | ---------------------------------------------------- |
-|  1  | Implementación 1 | [📄 Redondeo1.java](./Tema2/Redondeo/Redondeo1.java) |
-|  2  | Implementación 2 | [📄 Redondeo2.java](./Tema2/Redondeo/Redondeo2.java) |
+|  1  | Implementación 1 | [📄 Codigo1.java](./Tema1/Redondeo/Codigo1.java) |
+|  2  | Implementación 2 | [📄 Codigo2.java](./Tema1/Redondeo/Codigo2.java) |
 
 
 
