@@ -212,6 +212,16 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Cuadratura Gaussiana 4 | [📄 Imple 4.java](./Tema4/MetodoCuadraturaGaussiana/Imple%204.java) |
 |  5  | Cuadratura Gaussiana 5 | [📄 Imple 5.java](./Tema4/MetodoCuadraturaGaussiana/Imple%205.java) |
 
+### 🌀 Metodo de  Simpson 1/3
+
+|  #  | Ejercicio                 | Archivo                                                                 |
+| :-: | ------------------------- | ----------------------------------------------------------------------- |
+|  1  | Simpson 1/3 - Ejercicio 1 | [📄 Imple (1).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%281%29.java) |
+|  2  | Simpson 1/3 - Ejercicio 2 | [📄 Imple (2).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%282%29.java) |
+|  3  | Simpson 1/3 - Ejercicio 3 | [📄 Imple (3).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%283%29.java) |
+|  4  | Simpson 1/3 - Ejercicio 4 | [📄 Imple (4).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%284%29.java) |
+|  5  | Simpson 1/3 - Ejercicio 5 | [📄 Imple (5).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%285%29.java) |
+
 
 
 
