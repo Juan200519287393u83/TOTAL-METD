@@ -275,6 +275,18 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  5  | Lagrange 5 | [📄 Imple (5).java](./Tema5/Interpolación_de_lagrange/Imple%20%285%29.java) |
 
 
+### 🌀 Metodo de Interpolación de Newton
+|  #  | Ejercicio | Archivo                                                                   |
+| :-: | --------- | ------------------------------------------------------------------------- |
+|  1  | Newton 1  | [📄 Imple (1).java](./Tema5/Interpolación_de_newton/Imple%20%281%29.java) |
+|  2  | Newton 2  | [📄 Imple (2).java](./Tema5/Interpolación_de_newton/Imple%20%282%29.java) |
+|  3  | Newton 3  | [📄 Imple (3).java](./Tema5/Interpolación_de_newton/Imple%20%283%29.java) |
+|  4  | Newton 4  | [📄 Imple (4).java](./Tema5/Interpolación_de_newton/Imple%20%284%29.java) |
+|  5  | Newton 5  | [📄 Imple (5).java](./Tema5/Interpolación_de_newton/Imple%20%285%29.java) |
+
+
+
+
 
 
 
