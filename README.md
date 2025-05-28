@@ -327,6 +327,18 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Runge-Kutta 4 | [📄 Imple (4).java](./Tema6/Runge-Kutta/Imple%20%284%29.java) |
 |  5  | Runge-Kutta 5 | [📄 Imple (5).java](./Tema6/Runge-Kutta/Imple%20%285%29.java) |
 
+### 🌀  Método de Taylor
+
+|  #  | Ejercicio | Archivo                                                  |
+| :-: | --------- | -------------------------------------------------------- |
+|  1  | Taylor 1  | [📄 Imple (1).java](./Tema6/Taylor/Imple%20%281%29.java) |
+|  2  | Taylor 2  | [📄 Imple (2).java](./Tema6/Taylor/Imple%20%282%29.java) |
+|  3  | Taylor 3  | [📄 Imple (3).java](./Tema6/Taylor/Imple%20%283%29.java) |
+|  4  | Taylor 4  | [📄 Imple (4).java](./Tema6/Taylor/Imple%20%284%29.java) |
+|  5  | Taylor 5  | [📄 Imple (5).java](./Tema6/Taylor/Imple%20%285%29.java) |
+
+
+
 
 
 
