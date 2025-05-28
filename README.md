@@ -122,7 +122,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 | # | Ejercicio | Archivo |
 |:-:|-----------|---------|
-| 1 | secante 1 | [📄 Imple (1).java](./Tema2/Métodosecante/Imple%20(1).java) |
+| 1 | secante 1 | [📄 Imple (1).java](./Tema2/MétodoSecante/Imple%20(1).java) |
 | 2 | secante 2 | [📄 Imple (2).java](./Tema2/Métodosecante/Imple%20(2).java) |
 | 3 | secante 3 | [📄 Imple (3).java](./Tema2/Métodosecante/Imple%20(3).java) |
 | 4 | secante 4 | [📄 Imple (4).java](./Tema2/Métodosecante/Imple%20(4).java) |
