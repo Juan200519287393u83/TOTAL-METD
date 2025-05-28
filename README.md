@@ -181,6 +181,17 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Gauss-Jordan 4 | [📄 Imple (4).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%284%29.java) |
 |  5  | Gauss-Jordan 5 | [📄 Imple (5).java](./Tema3/M%C3%A9todo%20de%20Gauss-Jordan/Imple%20%285%29.java) |
 
+### 🌀 Método de Gauss-Seidel
+
+|  #  | Ejercicio      | Archivo                                                                           |
+| :-: | -------------- | --------------------------------------------------------------------------------- |
+|  1  | Gauss-Seidel 1 | [📄 Imple (1).java](./Tema3/M%C3%A9todo%20de%20Gauss-Seidel/Imple%20%281%29.java) |
+|  2  | Gauss-Seidel 2 | [📄 Imple (2).java](./Tema3/M%C3%A9todo%20de%20Gauss-Seidel/Imple%20%282%29.java) |
+|  3  | Gauss-Seidel 3 | [📄 Imple (3).java](./Tema3/M%C3%A9todo%20de%20Gauss-Seidel/Imple%20%283%29.java) |
+|  4  | Gauss-Seidel 4 | [📄 Imple (4).java](./Tema3/M%C3%A9todo%20de%20Gauss-Seidel/Imple%20%284%29.java) |
+|  5  | Gauss-Seidel 5 | [📄 Imple (5).java](./Tema3/M%C3%A9todo%20de%20Gauss-Seidel/Imple%20%285%29.java) |
+
+
 
 
 
