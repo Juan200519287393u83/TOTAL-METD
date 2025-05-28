@@ -116,5 +116,21 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  5  | Truncamiento 5 | [📄 Imple (5).java](./Tema1/Truncamiento/Imple%20(5).java) |
 
 
+## 🔹 Tema 2 – Métodos de Solución de Ecuaciones
+
+### 🌀 Método de la secante 
+
+| # | Ejercicio | Archivo |
+|:-:|-----------|---------|
+| 1 | secante 1 | [📄 Imple (1).java](./Tema2/Métodosecante/Imple%20(1).java) |
+| 2 | secante 2 | [📄 Imple (2).java](./Tema2/Métodosecante/Imple%20(2).java) |
+| 3 | secante 3 | [📄 Imple (3).java](./Tema2/Métodosecante/Imple%20(3).java) |
+| 4 | secante 4 | [📄 Imple (4).java](./Tema2/Métodosecante/Imple%20(4).java) |
+| 5 | secante 5 | [📄 Imple (5).java](./Tema2/Métodosecante/Imple%20(5).java) |
+
+
+
+
+
 
 
