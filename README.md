@@ -295,6 +295,20 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Correlación 4 | [📄 Imple (4).java](./Tema5/Método_de_Correlación/Imple%20%284%29.java) |
 |  5  | Correlación 5 | [📄 Imple (5).java](./Tema5/Método_de_Correlación/Imple%20%285%29.java) |
 
+### 🌀 Metodo de Regresión
+
+|  #  | Ejercicio   | Archivo                                                               |
+| :-: | ----------- | --------------------------------------------------------------------- |
+|  1  | Regresión 1 | [📄 Imple (1).java](./Tema5/Método_de_regresion/Imple%20%281%29.java) |
+|  2  | Regresión 2 | [📄 Imple (2).java](./Tema5/Método_de_regresion/Imple%20%282%29.java) |
+|  3  | Regresión 3 | [📄 Imple (3).java](./Tema5/Método_de_regresion/Imple%20%283%29.java) |
+|  4  | Regresión 4 | [📄 Imple (4).java](./Tema5/Método_de_regresion/Imple%20%284%29.java) |
+|  5  | Regresión 5 | [📄 Imple (5).java](./Tema5/Método_de_regresion/Imple%20%285%29.java) |
+
+
+
+
+
 
 
 
