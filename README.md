@@ -337,6 +337,67 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Taylor 4  | [📄 Imple (4).java](./Tema6/Taylor/Imple%20%284%29.java) |
 |  5  | Taylor 5  | [📄 Imple (5).java](./Tema6/Taylor/Imple%20%285%29.java) |
 
+<!-- Navegación con "botones" estilizados -->
+<div align="center">
+
+<a href="#tema-1-metodos-iterativos" style="
+  background-color:#4CAF50;
+  color:white;
+  padding:10px 20px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  border-radius:8px;
+  font-weight:bold;
+  margin:5px;
+  ">
+  Tema 1 - Métodos Iterativos
+</a>
+
+<a href="#tema-2-newton-raphson" style="
+  background-color:#008CBA;
+  color:white;
+  padding:10px 20px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  border-radius:8px;
+  font-weight:bold;
+  margin:5px;
+  ">
+  Tema 2 - Newton-Raphson
+</a>
+
+<a href="#tema-3-regla-de-falsa-posicion" style="
+  background-color:#f44336;
+  color:white;
+  padding:10px 20px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  border-radius:8px;
+  font-weight:bold;
+  margin:5px;
+  ">
+  Tema 3 - Regla de Falsa Posición
+</a>
+
+</div>
+
+---
+
+<!-- Luego, más abajo en el README defines tus secciones así -->
+
+## Tema 1 - Métodos Iterativos
+<!-- contenido -->
+
+## Tema 2 - Newton-Raphson
+<!-- contenido -->
+
+## Tema 3 - Regla de Falsa Posición
+<!-- contenido -->
+
+
 
 
 
