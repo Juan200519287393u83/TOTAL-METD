@@ -1,3 +1,5 @@
+
+
 # 📘 Métodos Numéricos
 
 Este repositorio reúne una colección completa de ejercicios, teoría y ejemplos prácticos relacionados con los **Métodos Numéricos**, fundamentales para resolver problemas matemáticos complejos mediante algoritmos computacionales.
@@ -336,8 +338,6 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  3  | Taylor 3  | [📄 Imple (3).java](./Tema6/Taylor/Imple%20%283%29.java) |
 |  4  | Taylor 4  | [📄 Imple (4).java](./Tema6/Taylor/Imple%20%284%29.java) |
 |  5  | Taylor 5  | [📄 Imple (5).java](./Tema6/Taylor/Imple%20%285%29.java) |
-
-
 
 
 
