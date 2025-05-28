@@ -110,10 +110,10 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  #  | Ejercicio        | Archivo                                              |
 | :-: | ---------------- | ---------------------------------------------------- |
 |  1  | Truncamiento 1 | [📄 Imple (1).java](./Tema1/Truncamiento/Imple%20(1).java) |
-|  2  | Truncamiento 2 | [📄 Imple (2).java](./Tema1/Truncamiento/Imple(2).java) |
-|  3  | Truncamiento 3 | [📄 Imple (3).java](./Tema1/Truncamiento/Imple(3).java) |
-|  4  | Truncamiento 4 | [📄 Imple (4).java](./Tema1/Truncamiento/Imple(4).java)|
-|  5  | Truncamiento 5 | [📄 Imple (5).java](./Tema1/Truncamiento/Imple%20(1).java) |
+|  2  | Truncamiento 2 | [📄 Imple (2).java](./Tema1/Truncamiento/Imple%20(2).java) |
+|  3  | Truncamiento 3 | [📄 Imple (3).java](./Tema1/Truncamiento/Imple%20(3).java) |
+|  4  | Truncamiento 4 | [📄 Imple (4).java](./Tema1/Truncamiento/Imple%20(4).java)|
+|  5  | Truncamiento 5 | [📄 Imple (5).java](./Tema1/Truncamiento/Imple%20(5).java) |
 
 
 
