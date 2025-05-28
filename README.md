@@ -171,6 +171,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Eliminación Gaussiana 4 | [📄 Imple 4.java](./Tema3/Eliminación%20Gaussiana/Imple%204.java) |
 |  5  | Eliminación Gaussiana 5 | [📄 Imple 5.java](./Tema3/Eliminación%20Gaussiana/Imple%205.java) |
 
+### 🌀 Eliminación de Gauss-Jordan
 
 
 
