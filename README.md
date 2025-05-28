@@ -202,7 +202,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ## 🔹 Tema 4 – Diferenciación e Integración Numérica
 
-### 🌀 Metodo de Cuadratura Gaussiana
+### 🌀 Método de Cuadratura Gaussiana
 
 |  #  | Ejercicio              | Archivo                                                             |
 | :-: | ---------------------- | ------------------------------------------------------------------- |
@@ -212,7 +212,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Cuadratura Gaussiana 4 | [📄 Imple 4.java](./Tema4/MetodoCuadraturaGaussiana/Imple%204.java) |
 |  5  | Cuadratura Gaussiana 5 | [📄 Imple 5.java](./Tema4/MetodoCuadraturaGaussiana/Imple%205.java) |
 
-### 🌀 Metodo de  Simpson 1/3
+### 🌀 Método de  Simpson 1/3
 
 |  #  | Ejercicio                 | Archivo                                                                 |
 | :-: | ------------------------- | ----------------------------------------------------------------------- |
@@ -222,7 +222,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Simpson 1/3 - Ejercicio 4 | [📄 Imple (4).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%284%29.java) |
 |  5  | Simpson 1/3 - Ejercicio 5 | [📄 Imple (5).java](./Tema4/MetodoReglaSimpson1_3/Imple%20%285%29.java) |
 
-### 🌀 Metodo de  Simpson 3/8
+### 🌀 Método de  Simpson 3/8
 
 |  #  | Ejercicio                 | Archivo                                                                 |
 | :-: | ------------------------- | ----------------------------------------------------------------------- |
@@ -232,7 +232,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Simpson 3/8 - Ejercicio 4 | [📄 Imple (4).java](./Tema4/MetodoReglaSimpson3_8/Imple%20%284%29.java) |
 |  5  | Simpson 3/8 - Ejercicio 5 | [📄 Imple (5).java](./Tema4/MetodoReglaSimpson3_8/Imple%20%285%29.java) |
 
-### 🌀 Metodo de Trapecio
+### 🌀 Método de Trapecio
 
 |  #  | Ejercicio              | Archivo                                                          |
 | :-: | ---------------------- | ---------------------------------------------------------------- |
@@ -244,7 +244,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ## 🔹 Tema 5 – Interpolación y Ajuste de Funciones
 
-### 🌀 Metodo de Interpolación Lineal
+### 🌀 Método de Interpolación Lineal
 
 |  #  | Ejercicio              | Archivo                                                                |
 | :-: | ---------------------- | ---------------------------------------------------------------------- |
@@ -254,7 +254,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Interpolación Lineal 4 | [📄 Imple (4).java](./Tema5/Interpolación_Lineal/Imple%20%284%29.java) |
 |  5  | Interpolación Lineal 5 | [📄 Imple (5).java](./Tema5/Interpolación_Lineal/Imple%20%285%29.java) |
 
-### 🌀 Metodo de Interpolación de Minimos Cuadrado
+### 🌀 Método de Interpolación de Minimos Cuadrado
 
 |  #  | Ejercicio           | Archivo                                                                             |
 | :-: | ------------------- | ----------------------------------------------------------------------------------- |
@@ -264,7 +264,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Mínimos Cuadrados 4 | [📄 Imple (4).java](./Tema5/Interpolación_de_Mínimos_Cuadrado/Imple%20%284%29.java) |
 |  5  | Mínimos Cuadrados 5 | [📄 Imple (5).java](./Tema5/Interpolación_de_Mínimos_Cuadrado/Imple%20%285%29.java) |
 
-### 🌀 Metodo de Interpolación de Lagrange
+### 🌀 Método de Interpolación de Lagrange
 
 |  #  | Ejercicio  | Archivo                                                                     |
 | :-: | ---------- | --------------------------------------------------------------------------- |
@@ -275,7 +275,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  5  | Lagrange 5 | [📄 Imple (5).java](./Tema5/Interpolación_de_lagrange/Imple%20%285%29.java) |
 
 
-### 🌀 Metodo de Interpolación de Newton
+### 🌀 Método de Interpolación de Newton
 
 |  #  | Ejercicio | Archivo                                                                   |
 | :-: | --------- | ------------------------------------------------------------------------- |
@@ -285,7 +285,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Newton 4  | [📄 Imple (4).java](./Tema5/Interpolación_de_newton/Imple%20%284%29.java) |
 |  5  | Newton 5  | [📄 Imple (5).java](./Tema5/Interpolación_de_newton/Imple%20%285%29.java) |
 
-### 🌀 Metodo de Correlación
+### 🌀 Método de Correlación
 
 |  #  | Ejercicio     | Archivo                                                                 |
 | :-: | ------------- | ----------------------------------------------------------------------- |
@@ -295,7 +295,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  4  | Correlación 4 | [📄 Imple (4).java](./Tema5/Método_de_Correlación/Imple%20%284%29.java) |
 |  5  | Correlación 5 | [📄 Imple (5).java](./Tema5/Método_de_Correlación/Imple%20%285%29.java) |
 
-### 🌀 Metodo de Regresión
+### 🌀 Método de Regresión
 
 |  #  | Ejercicio   | Archivo                                                               |
 | :-: | ----------- | --------------------------------------------------------------------- |
@@ -307,7 +307,7 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ## 🔹 Tema 6 – Solución de EDOs
 
-### 🌀 Metodo de Euler
+### 🌀 Método de Euler
 
 |  #  | Ejercicio | Archivo                                                 |
 | :-: | --------- | ------------------------------------------------------- |
@@ -316,6 +316,17 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 |  3  | Euler 3   | [📄 Imple (3).java](./Tema6/Euler/Imple%20%283%29.java) |
 |  4  | Euler 4   | [📄 Imple (4).java](./Tema6/Euler/Imple%20%284%29.java) |
 |  5  | Euler 5   | [📄 Imple (5).java](./Tema6/Euler/Imple%20%285%29.java) |
+
+### 🌀  Método de Runge-Kutta
+
+|  #  | Ejercicio     | Archivo                                                       |
+| :-: | ------------- | ------------------------------------------------------------- |
+|  1  | Runge-Kutta 1 | [📄 Imple (1).java](./Tema6/Runge-Kutta/Imple%20%281%29.java) |
+|  2  | Runge-Kutta 2 | [📄 Imple (2).java](./Tema6/Runge-Kutta/Imple%20%282%29.java) |
+|  3  | Runge-Kutta 3 | [📄 Imple (3).java](./Tema6/Runge-Kutta/Imple%20%283%29.java) |
+|  4  | Runge-Kutta 4 | [📄 Imple (4).java](./Tema6/Runge-Kutta/Imple%20%284%29.java) |
+|  5  | Runge-Kutta 5 | [📄 Imple (5).java](./Tema6/Runge-Kutta/Imple%20%285%29.java) |
+
 
 
 
