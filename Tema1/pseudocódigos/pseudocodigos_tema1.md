@@ -1,4 +1,4 @@
-PSEUDOCÓDIGOS - Manejo de Errores Numéricos
+# PSEUDOCÓDIGOS - Manejo de Errores Numéricos
 
 🌀 1. OVERFLOW
 ALGORITMO DetectarOverflow
