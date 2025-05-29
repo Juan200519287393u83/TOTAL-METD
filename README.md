@@ -84,8 +84,14 @@ Cada módulo incluye teoría, ejemplos comentados, diagramas y código. A contin
 
 ---
 
-
-
+| Tema   | Enlace al Pseudocódigo                                                |
+| ------ | --------------------------------------------------------------------- |
+| Tema 1 | [pseudocodigos\_tema1.md](Tema1/pseudocódigos/pseudocodigos_tema1.md) |
+| Tema 2 | [pseudocódigos\_tema2.md](Tema2/pseudocódigos/pseudocódigos_tema2.md) |
+| Tema 3 | [pseudocódigos\_tema3.md](Tema3/pseudocódigos/pseudocódigos_tema3.md) |
+| Tema 4 | [pseudocódigos\_tema4.md](Tema4/pseudocódigos/pseudocódigos_tema4.md) |
+| Tema 5 | [pseudocódigos\_tema5.md](Tema5/pseudocodigos/pseudocódigos_tema5.md) |
+| Tema 6 | [pseudocódigos\_tema6.md](Tema6/pseudocodigos/pseudocódigos_tema6.md) |
 
 ## 🔹 Tema 1 – Métodos Básicos
 
